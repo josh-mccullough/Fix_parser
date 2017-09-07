@@ -1,7 +1,12 @@
 #! /usr/bin/env python
 from pprint import pprint
 import argparse
+import xml.etree.ElementTree
 
+
+parser = argparse.ArgumentParser(description="Fix log message parser")
+parser.add_argument("message_log")
+args = parser.parse_args()
 
 class FixDict(dict):
 
@@ -19,83 +24,28 @@ class FixDict(dict):
                 self[k] = v
 
     def convert_MsgType(self, value):
-        # TODO parse in an xml here maybe? or a dict to iterate over and if the value appears then change it
-        if value == 'A':
-            return "LOGON-MESSAGE"
-        if value == '0':
-            return 'Heartbeat'
-        if value == '8':
-            return 'Execution Report'
-        return value
+        parser.parse_xml(value)
 
     def convert_OrdType(self, value):
-        if value == '1':
-            return 'Market'
-        if value == '2':
-            return 'Limit'
-        return value
+        parser.parse_xml(value)
 
     def convert_AccountType(self, value):
-        if value == '1':
-            return 'Account carried on customer side of books'
-        if value == '2':
-            return 'Account carried on non-customer side of books'
-        if value == '3':
-            return 'House Trader'
-        if value == '4':
-            return 'Floor Trader'
-        if value == '6':
-            return 'Account is carried on non-customer side of books and is cross margined'
-        if value == '7':
-            return 'Account is house trader and is cross margined'
-        if value == '8':
-            return 'Joint Back office Account (JBO)'
-        return value
+        parser.parse_xml(value)
 
     def convert_ExecType(self, value):
-        if value == '0':
-            return 'NEW'
-        if value == '3':
-            return 'DONE_FOR_DAY'
-        if value == '4':
-            return 'CANCELLED'
-        if value == '5':
-            return 'REPLACED'
-        if value == '6':
-            return 'PENDING_CANCEL'
-        if value == '7':
-            return 'STOPPED'
-        if value == '8':
-            return 'REJECTED'
-        if value == '9':
-            return 'SUSPENDED'
-        if value == 'A':
-            return 'PENDING_NEW'
-        if value == 'B':
-            return 'CALCULATED'
-        if value == 'C':
-            return 'EXPIRED'
-        if value == 'D':
-            return 'RESTARTED'
-        if value == 'E':
-            return 'PENDING_REPLACE'
-        if value == 'F':
-            return 'TRADE'
-        if value == 'G':
-            return 'TRADE_CORRECT'
-        if value == 'H':
-            return 'TRADE_CANCEL'
-        if value == 'I':
-            return 'ORDER_STATUS'
-        if value == 'J':
-            return 'TRADE_IN_A_CLEARING_HOLD'
-        if value == 'K':
-            return 'TRADE_HAS_BEEN_RELEASED_TO_CLEARING'
-        if value == 'L':
-            return 'TRIGGERED_OR_ACTIVATED_BY_SYSTEM'
+        parser.parse_xml(value)
 
 
 class FixParser:
+
+    def parse_xml(self, value):
+        # TODO get rid of hardcoded xml and replace with an argparse
+        your_xml = xml.etree.ElementTree.parse('FIX50SP2.xml').getroot()
+        for a_field in your_xml.iter():
+            if a_field.tag == "field":
+                for enums in a_field:
+                    if enums.attrib['enum'] == value:
+                        return enums.attrib['description']
 
     def create_dict_from_fix_tags(self):
         """Reads in from list of FIX tags, then stores the tags and explanations as key and value in dict"""
@@ -128,10 +78,6 @@ class FixParser:
     def take_in_log(self):
         newlist = []
 
-        parser = argparse.ArgumentParser(description="Fix log message parser")
-        parser.add_argument("message_log")
-        args = parser.parse_args()
-
         with open(args.message_log, 'rb') as input_messages:
             for line in input_messages:
                 fix_message_dict = FixDict(self.convert(line[24:]))
@@ -142,3 +88,4 @@ class FixParser:
 if __name__ == "__main__":
     parser = FixParser()
     parser.take_in_log()
+
