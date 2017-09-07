@@ -1,5 +1,6 @@
 #! /usr/bin/env python
 from pprint import pprint
+import argparse
 
 
 class FixDict(dict):
@@ -20,7 +21,10 @@ class FixDict(dict):
     def convert_MsgType(self, value):
         if value == 'A':
             return "LOGON-MESSAGE"
+        if value == '0':
+            return 'Heartbeat'
         return value
+
 
 
 class FixParser:
@@ -29,7 +33,6 @@ class FixParser:
         """Reads in from list of FIX tags, then stores the tags and explanations as key and value in dict"""
         file = open("FIX5.0-Tags.txt", "r")
         fix_tags = {}
-
         for l in file:
             fix_tags[l.split()[0]] = l.split()[1]  # Places the content of each line into a dictionary
         file.close()
@@ -44,8 +47,6 @@ class FixParser:
         del l[-1]  # Removes \n
         for c in l:
             message_dict[c.split("=")[0]] = c.split("=")[1]  # Splits each element into key and value
-        message_dict["52"] = message_dict["52"][:4] + '-' + message_dict["52"][4:6] + '-' + message_dict["52"][6:8]\
-                             + ' || ' + message_dict["52"][9:]
         return message_dict
 
     def convert(self, message):
@@ -56,13 +57,20 @@ class FixParser:
             converted_dict[fix_dict.values()[fix_dict.keys().index(key)]] = current_message_dict.values()[current_message_dict.keys().index(key)]
         return converted_dict
 
-    def take_in_messages(self, messages):
-        for line in messages:
-            print line
+    def take_in_log(self):
+        newlist = []
+
+        parser = argparse.ArgumentParser(description="Fix log message parser")
+        parser.add_argument("message_log")
+        args = parser.parse_args()
+
+        with open(args.message_log, 'rb') as input_messages:
+            for line in input_messages:
+                fix_message_dict = FixDict(self.convert(line[24:]))
+                newlist.append(fix_message_dict)
+            pprint(newlist)
+
 
 if __name__ == "__main__":
     parser = FixParser()
-    parser.take_in_messages('8=FIXT.1.19=9835=A49=BME56=DBL52=20170823-08:35:12.40934=150=TID57=SID98=0108=30141=Y')
-    message_dict = parser.convert('8=FIXT.1.19=9835=A49=BME56=DBL52=20170823-08:35:12.40934=150=TID57=SID98=0108=30141=Y')
-    fix_message_dict = FixDict(message_dict)
-    pprint(fix_message_dict)
+    parser.take_in_log()

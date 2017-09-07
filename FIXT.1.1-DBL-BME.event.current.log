@@ -1,0 +1,1452 @@
+20170822-08:56:23.527 : Created session
+20170822-08:56:23.547 : Connecting to 127.0.0.1 on port 9899
+20170822-08:56:23.557 : Initiated logon request
+20170822-08:56:23.557 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20170822-08:56:23.557 : Received logon response
+20170822-09:34:49.326 : Created session
+20170822-09:34:49.333 : Connecting to 127.0.0.1 on port 9899
+20170822-09:34:49.338 : Initiated logon request
+20170822-09:34:49.338 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20170822-09:34:49.338 : Received logon response
+20170822-09:35:17.133 : Initiated logout request
+20170822-09:35:17.134 : Received logout response
+20170822-09:35:17.134 : Disconnecting
+20170822-09:35:27.546 : Created session
+20170822-09:35:27.553 : Connecting to 127.0.0.1 on port 9899
+20170822-09:35:27.558 : Initiated logon request
+20170822-09:35:27.558 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20170822-09:35:27.558 : Received logon response
+20170822-09:36:22.916 : Initiated logout request
+20170822-09:36:22.917 : Received logout response
+20170822-09:36:22.917 : Disconnecting
+20170822-10:44:20.218 : Created session
+20170822-10:44:20.227 : Connecting to 127.0.0.1 on port 9899
+20170822-10:44:20.234 : Initiated logon request
+20170822-10:44:20.234 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20170822-10:44:20.234 : Received logon response
+20170822-10:44:28.110 : Initiated logout request
+20170822-10:44:28.111 : Received logout response
+20170822-10:44:28.111 : Disconnecting
+20170822-10:45:39.695 : Created session
+20170822-10:45:39.701 : Connecting to 127.0.0.1 on port 9899
+20170822-10:45:39.708 : Initiated logon request
+20170822-10:45:39.708 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20170822-10:45:39.708 : Received logon response
+20170822-10:47:36.431 : Created session
+20170822-10:47:36.438 : Connecting to 127.0.0.1 on port 9899
+20170822-10:47:36.442 : Initiated logon request
+20170822-10:47:36.442 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20170822-10:47:36.442 : Received logon response
+20170822-10:49:29.650 : Created session
+20170822-10:49:29.662 : Connecting to 127.0.0.1 on port 9899
+20170822-10:49:29.667 : Initiated logon request
+20170822-10:49:29.667 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20170822-10:49:29.679 : Received logon response
+20170822-10:49:41.366 : Initiated logout request
+20170822-10:49:41.370 : Received logout response
+20170822-10:49:41.370 : Disconnecting
+20170822-10:51:38.063 : Created session
+20170822-10:51:38.073 : Connecting to 127.0.0.1 on port 9899
+20170822-10:51:38.078 : Initiated logon request
+20170822-10:51:38.078 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20170822-10:51:38.119 : Received logon response
+20170822-10:51:42.331 : Initiated logout request
+20170822-10:51:42.361 : Received logout response
+20170822-10:51:42.361 : Disconnecting
+20170822-10:51:51.135 : Created session
+20170822-10:51:51.144 : Connecting to 127.0.0.1 on port 9899
+20170822-10:51:51.150 : Initiated logon request
+20170822-10:51:51.150 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20170822-10:51:51.186 : Received logon response
+20170822-10:52:24.768 : Initiated logout request
+20170822-10:52:24.779 : Received logout response
+20170822-10:52:24.779 : Disconnecting
+20170822-10:53:14.837 : Created session
+20170822-10:53:14.848 : Connecting to 127.0.0.1 on port 9899
+20170822-10:53:14.859 : Initiated logon request
+20170822-10:53:14.859 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20170822-10:53:14.918 : Received logon response
+20170822-10:53:19.048 : Initiated logout request
+20170822-10:53:19.082 : Received logout response
+20170822-10:53:19.082 : Disconnecting
+20170822-10:54:59.031 : Created session
+20170822-10:54:59.038 : Connecting to 127.0.0.1 on port 9899
+20170822-10:54:59.044 : Initiated logon request
+20170822-10:54:59.044 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20170822-10:54:59.074 : Received logon response
+20170822-10:59:39.907 : Created session
+20170822-10:59:39.913 : Connecting to 127.0.0.1 on port 9899
+20170822-10:59:39.917 : Initiated logon request
+20170822-10:59:39.918 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20170822-10:59:39.949 : Received logon response
+20170822-10:59:50.077 : Initiated logout request
+20170822-10:59:50.090 : Received logout response
+20170822-10:59:50.091 : Disconnecting
+20170822-11:01:43.168 : Created session
+20170822-11:01:43.176 : Connecting to 127.0.0.1 on port 9899
+20170822-11:01:43.181 : Initiated logon request
+20170822-11:01:43.181 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20170822-11:01:43.210 : Received logon response
+20170822-11:01:47.812 : Initiated logout request
+20170822-11:01:47.823 : Received logout response
+20170822-11:01:47.824 : Disconnecting
+20170822-11:04:44.118 : Created session
+20170822-11:04:44.140 : Connecting to 127.0.0.1 on port 9899
+20170822-11:04:44.146 : Initiated logon request
+20170822-11:04:44.146 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20170822-11:04:44.181 : Received logon response
+20170822-11:05:12.996 : Initiated logout request
+20170822-11:05:13.018 : Received logout response
+20170822-11:05:13.018 : Disconnecting
+20170822-11:05:26.260 : Created session
+20170822-11:05:26.275 : Connecting to 127.0.0.1 on port 9899
+20170822-11:05:26.281 : Initiated logon request
+20170822-11:05:26.281 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20170822-11:05:26.308 : Received logon response
+20170822-13:18:12.665 : Created session
+20170822-13:18:12.676 : Connecting to 127.0.0.1 on port 9899
+20170822-13:18:12.681 : Initiated logon request
+20170822-13:18:12.681 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20170822-13:18:12.716 : Received logon response
+20170822-13:18:19.094 : Initiated logout request
+20170822-13:18:19.110 : Received logout response
+20170822-13:18:19.111 : Disconnecting
+20170822-13:18:26.310 : Created session
+20170822-13:18:26.317 : Connecting to 127.0.0.1 on port 9899
+20170822-13:18:26.321 : Initiated logon request
+20170822-13:18:26.321 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20170822-13:18:26.340 : Received logon response
+20170822-13:19:05.620 : Initiated logout request
+20170822-13:19:05.640 : Received logout response
+20170822-13:19:05.640 : Disconnecting
+20170822-13:19:11.436 : Created session
+20170822-13:19:11.444 : Connecting to 127.0.0.1 on port 9899
+20170822-13:19:11.454 : Initiated logon request
+20170822-13:19:11.454 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20170822-13:19:11.484 : Received logon response
+20170822-13:19:36.844 : Initiated logout request
+20170822-13:19:36.850 : Received logout response
+20170822-13:19:36.850 : Disconnecting
+20170822-13:20:31.139 : Created session
+20170822-13:20:31.155 : Connecting to 127.0.0.1 on port 9899
+20170822-13:20:31.167 : Initiated logon request
+20170822-13:20:31.167 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20170822-13:20:31.190 : Received logon response
+20170822-13:20:34.715 : Initiated logout request
+20170822-13:20:34.737 : Received logout response
+20170822-13:20:34.740 : Disconnecting
+20170822-13:21:04.009 : Created session
+20170822-13:21:04.022 : Connecting to 127.0.0.1 on port 9899
+20170822-13:21:04.030 : Initiated logon request
+20170822-13:21:04.030 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20170822-13:21:04.064 : Received logon response
+20170822-13:21:18.125 : Initiated logout request
+20170822-13:21:18.136 : Received logout response
+20170822-13:21:18.136 : Disconnecting
+20170822-13:38:28.969 : Created session
+20170822-13:38:28.983 : Connecting to 127.0.0.1 on port 9899
+20170822-13:38:28.991 : Initiated logon request
+20170822-13:38:28.991 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20170822-13:38:29.037 : Received logon response
+20170822-13:40:12.298 : Initiated logout request
+20170822-13:40:12.305 : Received logout response
+20170822-13:40:12.305 : Disconnecting
+20170822-13:46:06.169 : Created session
+20170822-13:46:06.185 : Connecting to 127.0.0.1 on port 9899
+20170822-13:46:06.193 : Initiated logon request
+20170822-13:46:06.193 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20170822-13:46:06.232 : Received logon response
+20170822-13:46:32.879 : Initiated logout request
+20170822-13:46:32.895 : Received logout response
+20170822-13:46:32.896 : Disconnecting
+20170822-13:46:36.752 : Created session
+20170822-13:46:36.769 : Connecting to 127.0.0.1 on port 9899
+20170822-13:46:36.773 : Initiated logon request
+20170822-13:46:36.773 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20170822-13:46:36.796 : Received logon response
+20170822-13:52:36.964 : Created session
+20170822-13:52:36.985 : Connecting to 127.0.0.1 on port 9899
+20170822-13:52:36.990 : Initiated logon request
+20170822-13:52:36.991 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20170822-13:52:37.028 : Received logon response
+20170822-13:55:05.708 : Created session
+20170822-13:55:05.719 : Connecting to 127.0.0.1 on port 9899
+20170822-13:55:05.724 : Initiated logon request
+20170822-13:55:05.724 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20170822-13:55:05.758 : Received logon response
+20170822-13:57:25.916 : Created session
+20170822-13:57:25.924 : Connecting to 127.0.0.1 on port 9899
+20170822-13:57:25.926 : Initiated logon request
+20170822-13:57:25.926 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20170822-13:57:25.950 : Received logon response
+20170822-13:59:24.850 : Created session
+20170822-13:59:24.857 : Connecting to 127.0.0.1 on port 9899
+20170822-13:59:24.862 : Initiated logon request
+20170822-13:59:24.862 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20170822-13:59:24.882 : Received logon response
+20170822-14:01:03.102 : Created session
+20170822-14:01:03.116 : Connecting to 127.0.0.1 on port 9899
+20170822-14:01:03.121 : Initiated logon request
+20170822-14:01:03.121 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20170822-14:01:03.155 : Received logon response
+20170822-14:02:10.069 : Created session
+20170822-14:02:10.086 : Connecting to 127.0.0.1 on port 9899
+20170822-14:02:10.096 : Initiated logon request
+20170822-14:02:10.096 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20170822-14:02:10.134 : Received logon response
+20170822-14:07:06.604 : Created session
+20170822-14:07:06.616 : Connecting to 127.0.0.1 on port 9899
+20170822-14:07:06.618 : Initiated logon request
+20170822-14:07:06.618 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20170822-14:07:06.641 : Received logon response
+20170822-14:09:19.319 : Created session
+20170822-14:09:19.334 : Connecting to 127.0.0.1 on port 9899
+20170822-14:09:19.342 : Initiated logon request
+20170822-14:09:19.342 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20170822-14:09:19.379 : Received logon response
+20170822-14:11:57.224 : Created session
+20170822-14:11:57.231 : Connecting to 127.0.0.1 on port 9899
+20170822-14:11:57.236 : Initiated logon request
+20170822-14:11:57.236 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20170822-14:11:57.257 : Received logon response
+20170822-14:13:27.111 : Created session
+20170822-14:13:27.120 : Connecting to 127.0.0.1 on port 9899
+20170822-14:13:27.122 : Initiated logon request
+20170822-14:13:27.123 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20170822-14:13:27.144 : Received logon response
+20170822-14:23:44.225 : Created session
+20170822-14:23:44.246 : Connecting to 127.0.0.1 on port 9899
+20170822-14:23:44.288 : Initiated logon request
+20170822-14:23:44.288 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20170822-14:23:44.370 : Received logon response
+20170822-14:23:48.297 : Initiated logout request
+20170822-14:23:48.375 : Received logout response
+20170822-14:23:48.375 : Disconnecting
+20170822-14:23:50.845 : Created session
+20170822-14:23:50.886 : Connecting to 127.0.0.1 on port 9899
+20170822-14:23:50.907 : Initiated logon request
+20170822-14:23:50.907 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20170822-14:23:50.951 : Received logon response
+20170822-14:26:13.809 : Created session
+20170822-14:26:13.826 : Connecting to 127.0.0.1 on port 9899
+20170822-14:26:13.840 : Initiated logon request
+20170822-14:26:13.840 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20170822-14:26:13.895 : Received logon response
+20170822-14:29:00.298 : Created session
+20170822-14:29:00.312 : Connecting to 127.0.0.1 on port 9899
+20170822-14:29:00.315 : Initiated logon request
+20170822-14:29:00.316 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20170822-14:29:00.337 : Received logon response
+20170822-14:30:17.816 : Created session
+20170822-14:30:17.823 : Connecting to 127.0.0.1 on port 9899
+20170822-14:30:17.826 : Initiated logon request
+20170822-14:30:17.826 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20170822-14:30:17.889 : Received logon response
+20170822-14:32:17.653 : Created session
+20170822-14:32:17.674 : Connecting to 127.0.0.1 on port 9899
+20170822-14:32:17.677 : Initiated logon request
+20170822-14:32:17.677 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20170822-14:32:17.722 : Received logon response
+20170822-14:34:11.234 : Initiated logout request
+20170822-14:34:11.289 : Received logout response
+20170822-14:34:11.289 : Disconnecting
+20170822-14:34:24.095 : Created session
+20170822-14:34:24.125 : Connecting to 127.0.0.1 on port 9899
+20170822-14:34:24.140 : Initiated logon request
+20170822-14:34:24.140 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20170822-14:34:24.182 : Received logon response
+20170822-14:40:07.696 : Created session
+20170822-14:40:07.735 : Connecting to 127.0.0.1 on port 9899
+20170822-14:40:07.754 : Initiated logon request
+20170822-14:40:07.754 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20170822-14:40:07.826 : Received logon response
+20170822-14:41:44.481 : Initiated logout request
+20170822-14:41:44.570 : Received logout response
+20170822-14:41:44.570 : Disconnecting
+20170822-14:41:46.406 : Created session
+20170822-14:42:45.848 : Created session
+20170822-14:42:45.875 : Connecting to 127.0.0.1 on port 9899
+20170822-14:42:45.882 : Initiated logon request
+20170822-14:42:45.882 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20170822-14:42:46.007 : Received logon response
+20170822-14:53:11.054 : Message 30 Rejected: Incorrect data format for value:44
+20170822-15:28:13.867 : Created session
+20170822-15:28:13.917 : Connecting to 127.0.0.1 on port 9899
+20170822-15:29:09.987 : Created session
+20170822-15:29:10.013 : Connecting to 127.0.0.1 on port 9899
+20170822-15:31:21.645 : Created session
+20170822-15:31:21.666 : Connecting to 127.0.0.1 on port 9899
+20170822-15:42:32.556 : Created session
+20170822-15:42:32.598 : Connecting to 127.0.0.1 on port 9899
+20170822-15:42:32.615 : Initiated logon request
+20170822-15:42:32.615 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20170822-15:42:32.718 : Received logon response
+20170822-15:43:58.384 : Initiated logout request
+20170822-15:43:58.431 : Received logout response
+20170822-15:43:58.431 : Disconnecting
+20170822-16:01:24.485 : Created session
+20170822-16:01:24.501 : Connecting to 127.0.0.1 on port 9899
+20170822-16:01:24.510 : Initiated logon request
+20170822-16:01:24.510 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20170822-16:01:24.635 : Received logon response
+20170822-16:05:06.211 : Created session
+20170822-16:05:06.248 : Connecting to 127.0.0.1 on port 9899
+20170822-16:05:06.261 : Initiated logon request
+20170822-16:05:06.261 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20170822-16:05:06.450 : Received logon response
+20170822-16:05:29.580 : Created session
+20170822-16:05:29.593 : Connecting to 127.0.0.1 on port 9899
+20170822-16:05:29.603 : Initiated logon request
+20170822-16:05:29.603 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20170822-16:05:29.691 : Received logon response
+20170822-16:05:31.437 : Initiated logout request
+20170822-16:05:31.488 : Received logout response
+20170822-16:05:31.488 : Disconnecting
+20170822-16:05:34.823 : Created session
+20170822-16:05:34.855 : Connecting to 127.0.0.1 on port 9899
+20170822-16:05:34.867 : Initiated logon request
+20170822-16:05:34.867 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20170822-16:05:34.947 : Received logon response
+20170822-16:06:16.926 : Initiated logout request
+20170822-16:06:16.985 : Received logout response
+20170822-16:06:16.985 : Disconnecting
+20170823-08:21:13.236 : Created session
+20170823-08:21:13.259 : Connecting to 127.0.0.1 on port 9899
+20170823-08:21:13.273 : Initiated logon request
+20170823-08:21:13.273 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20170823-08:21:13.366 : Received logon response
+20170823-08:27:08.937 : Initiated logout request
+20170823-08:27:08.979 : Received logout response
+20170823-08:27:08.979 : Disconnecting
+20170823-08:29:56.033 : Created session
+20170823-08:29:56.073 : Connecting to 127.0.0.1 on port 9899
+20170823-08:29:56.089 : Initiated logon request
+20170823-08:29:56.089 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20170823-08:29:56.489 : Received logon response
+20170823-08:30:33.254 : Initiated logout request
+20170823-08:30:33.413 : Received logout response
+20170823-08:30:33.429 : Disconnecting
+20170823-08:35:12.360 : Created session
+20170823-08:35:12.397 : Connecting to 127.0.0.1 on port 9899
+20170823-08:35:12.410 : Initiated logon request
+20170823-08:35:12.410 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20170823-08:35:12.564 : Received logon response
+20170823-08:35:18.866 : Initiated logout request
+20170823-08:35:18.892 : Received logout response
+20170823-08:35:18.892 : Disconnecting
+20170823-08:35:23.192 : Created session
+20170823-08:35:23.233 : Connecting to 127.0.0.1 on port 9899
+20170823-08:35:23.241 : Initiated logon request
+20170823-08:35:23.241 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20170823-08:35:23.277 : Received logon response
+20170823-08:39:54.409 : Created session
+20170823-08:39:54.442 : Connecting to 127.0.0.1 on port 9899
+20170823-08:39:54.459 : Initiated logon request
+20170823-08:39:54.459 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20170823-08:39:54.566 : Received logon response
+20170823-08:40:46.741 : Initiated logout request
+20170823-08:40:46.811 : Received logout response
+20170823-08:40:46.812 : Disconnecting
+20170823-08:48:02.849 : Created session
+20170823-08:48:02.874 : Connecting to 127.0.0.1 on port 9899
+20170823-08:48:02.890 : Initiated logon request
+20170823-08:48:02.890 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20170823-08:48:02.980 : Received logon response
+20170823-08:48:26.105 : Initiated logout request
+20170823-08:48:26.193 : Received logout response
+20170823-08:48:26.193 : Disconnecting
+20170823-08:49:06.368 : Created session
+20170823-08:49:06.386 : Connecting to 127.0.0.1 on port 9899
+20170823-08:49:06.400 : Initiated logon request
+20170823-08:49:06.400 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20170823-08:49:06.461 : Received logon response
+20170823-08:49:31.926 : Initiated logout request
+20170823-08:49:31.963 : Received logout response
+20170823-08:49:31.964 : Disconnecting
+20170823-08:55:43.506 : Created session
+20170823-08:55:43.533 : Connecting to 127.0.0.1 on port 9899
+20170823-08:55:43.549 : Initiated logon request
+20170823-08:55:43.549 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20170823-08:55:43.649 : Received logon response
+20170823-08:57:25.264 : Created session
+20170823-08:57:25.302 : Connecting to 127.0.0.1 on port 9899
+20170823-08:57:25.319 : Initiated logon request
+20170823-08:57:25.319 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20170823-08:57:25.382 : Received logon response
+20170823-08:58:10.445 : Initiated logout request
+20170823-08:58:10.470 : Received logout response
+20170823-08:58:10.470 : Disconnecting
+20170823-09:01:05.529 : Created session
+20170823-09:01:05.562 : Connecting to 127.0.0.1 on port 9899
+20170823-09:01:05.597 : Initiated logon request
+20170823-09:01:05.597 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20170823-09:01:05.629 : Received logon response
+20170823-09:01:11.037 : Socket Error: Connection reset by peer.
+20170823-09:01:11.037 : Disconnecting
+20170823-09:03:00.497 : Created session
+20170823-09:03:00.529 : Connecting to 127.0.0.1 on port 9899
+20170823-09:03:00.540 : Initiated logon request
+20170823-09:03:00.546 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20170823-09:03:00.630 : Received logon response
+20170823-09:03:25.882 : Socket Error: Connection reset by peer.
+20170823-09:03:25.882 : Disconnecting
+20170823-09:06:00.329 : Created session
+20170823-09:06:00.342 : Connecting to 127.0.0.1 on port 9899
+20170823-09:06:00.360 : Initiated logon request
+20170823-09:06:00.360 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20170823-09:06:00.421 : Received logon response
+20170823-09:06:25.184 : Initiated logout request
+20170823-09:06:25.236 : Received logout response
+20170823-09:06:25.236 : Disconnecting
+20170823-09:08:26.011 : Created session
+20170823-09:08:26.044 : Connecting to 127.0.0.1 on port 9899
+20170823-09:08:26.053 : Initiated logon request
+20170823-09:08:26.053 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20170823-09:08:26.168 : Received logon response
+20170823-09:08:54.954 : Initiated logout request
+20170823-09:08:55.023 : Received logout response
+20170823-09:08:55.023 : Disconnecting
+20170823-09:13:54.357 : Created session
+20170823-09:13:54.414 : Connecting to 127.0.0.1 on port 9899
+20170823-09:13:54.470 : Initiated logon request
+20170823-09:13:54.470 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20170823-09:13:54.513 : Received logon response
+20170823-09:13:57.620 : Initiated logout request
+20170823-09:13:57.674 : Received logout response
+20170823-09:13:57.674 : Disconnecting
+20170823-09:15:46.730 : Created session
+20170823-09:15:46.748 : Connecting to 127.0.0.1 on port 9899
+20170823-09:15:46.756 : Initiated logon request
+20170823-09:15:46.756 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20170823-09:15:46.774 : Received logon response
+20170823-09:16:09.949 : Initiated logout request
+20170823-09:16:10.068 : Received logout response
+20170823-09:16:10.069 : Disconnecting
+20170823-09:23:42.924 : Created session
+20170823-09:23:42.936 : Connecting to 127.0.0.1 on port 9899
+20170823-09:23:42.939 : Initiated logon request
+20170823-09:23:42.939 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20170823-09:23:42.956 : Received logon response
+20170823-09:23:46.106 : Initiated logout request
+20170823-09:23:46.135 : Received logout response
+20170823-09:23:46.135 : Disconnecting
+20170823-10:18:48.553 : Created session
+20170823-10:18:48.563 : Connecting to 127.0.0.1 on port 9899
+20170823-10:18:48.566 : Initiated logon request
+20170823-10:18:48.566 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20170823-10:18:48.584 : Received logon response
+20170823-10:18:57.466 : Initiated logout request
+20170823-10:18:57.480 : Received logout response
+20170823-10:18:57.480 : Disconnecting
+20170823-12:22:23.894 : Created session
+20170823-12:22:23.921 : Connecting to 127.0.0.1 on port 9899
+20170823-12:22:23.942 : Initiated logon request
+20170823-12:22:23.942 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20170823-12:22:24.068 : Received logon response
+20170823-12:22:38.040 : Initiated logout request
+20170823-12:22:38.201 : Received logout response
+20170823-12:22:38.201 : Disconnecting
+20170823-13:40:09.820 : Created session
+20170823-13:40:09.834 : Connecting to 127.0.0.1 on port 9899
+20170823-13:40:09.838 : Initiated logon request
+20170823-13:40:09.838 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20170823-13:40:09.865 : Received logon response
+20170823-13:40:41.328 : Initiated logout request
+20170823-13:40:41.337 : Received logout response
+20170823-13:40:41.337 : Disconnecting
+20170823-13:42:02.644 : Created session
+20170823-13:42:02.651 : Connecting to 127.0.0.1 on port 9899
+20170823-13:42:02.656 : Initiated logon request
+20170823-13:42:02.656 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20170823-13:42:02.674 : Received logon response
+20170823-13:42:26.193 : Initiated logout request
+20170823-13:42:26.207 : Received logout response
+20170823-13:42:26.207 : Disconnecting
+20170823-13:49:05.103 : Created session
+20170823-13:49:05.111 : Connecting to 127.0.0.1 on port 9899
+20170823-13:49:05.114 : Initiated logon request
+20170823-13:49:05.114 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20170823-13:49:05.247 : Received logon response
+20170823-13:53:37.830 : Socket Error: Connection reset by peer.
+20170823-13:53:37.830 : Disconnecting
+20170823-13:54:21.010 : Created session
+20170823-13:54:21.016 : Connecting to 127.0.0.1 on port 9899
+20170823-13:54:21.024 : Initiated logon request
+20170823-13:54:21.024 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20170823-13:54:21.046 : Received logon response
+20170823-13:54:34.247 : Initiated logout request
+20170823-13:54:34.274 : Received logout response
+20170823-13:54:34.274 : Disconnecting
+20170823-13:54:38.831 : Created session
+20170823-13:54:38.838 : Connecting to 127.0.0.1 on port 9899
+20170823-13:54:38.843 : Initiated logon request
+20170823-13:54:38.843 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20170823-13:54:38.875 : Received logon response
+20170823-13:55:37.497 : Socket Error: Connection reset by peer.
+20170823-13:55:37.497 : Disconnecting
+20170823-13:55:38.058 : Connecting to 127.0.0.1 on port 9899
+20170823-13:55:38.060 : Initiated logon request
+20170823-13:55:38.060 : Socket Error: Connection reset by peer.
+20170823-13:55:38.060 : Disconnecting
+20170823-14:04:13.892 : Created session
+20170823-14:04:13.901 : Connecting to 127.0.0.1 on port 9899
+20170823-14:04:13.908 : Initiated logon request
+20170823-14:04:13.908 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20170823-14:04:13.945 : Received logon response
+20170823-14:05:06.600 : Initiated logout request
+20170823-14:05:06.673 : Received logout response
+20170823-14:05:06.674 : Disconnecting
+20170823-14:08:27.160 : Created session
+20170823-14:08:27.167 : Connecting to 127.0.0.1 on port 9899
+20170823-14:08:27.172 : Initiated logon request
+20170823-14:08:27.172 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20170823-14:08:27.188 : Received logon response
+20170823-14:08:59.198 : Initiated logout request
+20170823-14:08:59.239 : Received logout response
+20170823-14:08:59.240 : Disconnecting
+20170823-14:09:11.600 : Created session
+20170823-14:09:11.608 : Connecting to 127.0.0.1 on port 9899
+20170823-14:09:11.610 : Initiated logon request
+20170823-14:09:11.611 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20170823-14:09:11.624 : Received logon response
+20170823-14:09:21.535 : Initiated logout request
+20170823-14:09:21.548 : Received logout response
+20170823-14:09:21.549 : Disconnecting
+20170823-14:09:40.556 : Created session
+20170823-14:09:40.565 : Connecting to 127.0.0.1 on port 9899
+20170823-14:09:40.568 : Initiated logon request
+20170823-14:09:40.568 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20170823-14:09:40.582 : Received logon response
+20170823-14:41:06.730 : Initiated logout request
+20170823-14:41:06.767 : Received logout response
+20170823-14:41:06.768 : Disconnecting
+20170823-14:41:23.973 : Created session
+20170823-14:41:23.981 : Connecting to 127.0.0.1 on port 9899
+20170823-14:41:23.983 : Initiated logon request
+20170823-14:41:23.983 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20170823-14:41:24.006 : Received logon response
+20170823-15:57:29.488 : Created session
+20170823-15:57:29.501 : Connecting to 127.0.0.1 on port 9899
+20170823-15:57:29.528 : Initiated logon request
+20170823-15:57:29.529 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20170823-15:57:29.577 : Received logon response
+20170824-10:53:58.327 : Created session
+20170824-10:53:58.341 : Connecting to 127.0.0.1 on port 9899
+20170824-10:53:58.351 : Initiated logon request
+20170824-10:53:58.351 : Socket Error: Connection reset by peer.
+20170824-10:53:58.351 : Disconnecting
+20170824-10:54:58.583 : Connecting to 127.0.0.1 on port 9899
+20170824-10:54:58.584 : Initiated logon request
+20170824-10:54:58.584 : Socket Error: Connection reset by peer.
+20170824-10:54:58.584 : Disconnecting
+20170824-11:18:23.380 : Created session
+20170824-11:18:23.403 : Connecting to 127.0.0.1 on port 9899
+20170824-11:18:23.409 : Initiated logon request
+20170824-11:18:23.411 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20170824-11:18:23.468 : Received logon response
+20170824-11:18:33.963 : Initiated logout request
+20170824-11:18:33.977 : Received logout response
+20170824-11:18:33.977 : Disconnecting
+20170824-11:18:37.674 : Created session
+20170824-11:18:37.681 : Connecting to 127.0.0.1 on port 9899
+20170824-11:18:37.684 : Initiated logon request
+20170824-11:18:37.684 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20170824-11:18:37.703 : Received logon response
+20170824-12:16:38.157 : Created session
+20170824-12:16:38.168 : Connecting to 127.0.0.1 on port 9899
+20170824-12:16:38.190 : Initiated logon request
+20170824-12:16:38.198 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20170824-12:16:38.431 : Received logon response
+20170824-12:16:42.038 : Initiated logout request
+20170824-12:16:42.200 : Received logout response
+20170824-12:16:42.200 : Disconnecting
+20170824-12:28:29.210 : Created session
+20170824-12:28:29.216 : Connecting to 127.0.0.1 on port 9899
+20170824-12:28:29.220 : Initiated logon request
+20170824-12:28:29.220 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20170824-12:28:29.365 : Received logon response
+20170824-12:28:32.534 : Initiated logout request
+20170824-12:28:32.686 : Received logout response
+20170824-12:28:32.686 : Disconnecting
+20170824-12:42:33.487 : Created session
+20170824-12:42:33.494 : Connecting to 127.0.0.1 on port 9899
+20170824-12:42:33.498 : Initiated logon request
+20170824-12:42:33.498 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20170824-12:42:33.804 : Received logon response
+20170824-12:42:35.712 : Initiated logout request
+20170824-12:42:35.862 : Received logout response
+20170824-12:42:35.862 : Disconnecting
+20170824-12:43:26.467 : Created session
+20170824-12:43:26.495 : Connecting to 127.0.0.1 on port 9899
+20170824-12:43:26.501 : Initiated logon request
+20170824-12:43:26.501 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20170824-12:43:26.756 : Received logon response
+20170824-12:43:32.008 : Initiated logout request
+20170824-12:43:32.156 : Received logout response
+20170824-12:43:32.157 : Disconnecting
+20170824-12:43:50.489 : Created session
+20170824-12:43:50.524 : Connecting to 127.0.0.1 on port 9899
+20170824-12:43:50.539 : Initiated logon request
+20170824-12:43:50.539 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20170824-12:43:50.728 : Received logon response
+20170824-12:45:38.776 : Initiated logout request
+20170824-12:45:38.926 : Received logout response
+20170824-12:45:38.927 : Disconnecting
+20170824-12:55:36.553 : Created session
+20170824-12:55:36.562 : Connecting to 127.0.0.1 on port 9899
+20170824-12:55:36.575 : Initiated logon request
+20170824-12:55:36.575 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20170824-12:55:36.776 : Received logon response
+20170824-12:55:38.722 : Initiated logout request
+20170824-12:55:38.889 : Received logout response
+20170824-12:55:38.890 : Disconnecting
+20170824-12:56:24.214 : Created session
+20170824-12:56:24.227 : Connecting to 127.0.0.1 on port 9899
+20170824-12:56:24.233 : Initiated logon request
+20170824-12:56:24.233 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20170824-12:56:24.399 : Received logon response
+20170824-12:56:26.699 : Initiated logout request
+20170824-12:56:26.860 : Received logout response
+20170824-12:56:26.860 : Disconnecting
+20170824-12:59:51.823 : Created session
+20170824-12:59:51.829 : Connecting to 127.0.0.1 on port 9899
+20170824-12:59:51.833 : Initiated logon request
+20170824-12:59:51.833 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20170824-12:59:51.853 : Received logon response
+20170824-12:59:57.670 : Initiated logout request
+20170824-12:59:57.682 : Received logout response
+20170824-12:59:57.682 : Disconnecting
+20170824-13:00:09.124 : Created session
+20170824-13:00:09.131 : Connecting to 127.0.0.1 on port 9899
+20170824-13:00:09.136 : Initiated logon request
+20170824-13:00:09.136 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20170824-13:00:09.150 : Received logon response
+20170824-13:00:14.065 : Initiated logout request
+20170824-13:00:14.078 : Received logout response
+20170824-13:00:14.078 : Disconnecting
+20170824-13:00:20.565 : Created session
+20170824-13:00:20.575 : Connecting to 127.0.0.1 on port 9899
+20170824-13:00:20.577 : Initiated logon request
+20170824-13:00:20.577 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20170824-13:00:20.637 : Received logon response
+20170824-13:01:11.050 : Initiated logout request
+20170824-13:01:11.060 : Received logout response
+20170824-13:01:11.061 : Disconnecting
+20170824-13:01:34.312 : Created session
+20170824-13:01:34.319 : Connecting to 127.0.0.1 on port 9899
+20170824-13:01:34.322 : Initiated logon request
+20170824-13:01:34.322 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20170824-13:01:34.338 : Received logon response
+20170824-13:01:43.385 : Initiated logout request
+20170824-13:01:43.396 : Received logout response
+20170824-13:01:43.396 : Disconnecting
+20170824-13:04:35.547 : Created session
+20170824-13:04:35.580 : Connecting to 127.0.0.1 on port 9899
+20170824-13:04:35.589 : Initiated logon request
+20170824-13:04:35.589 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20170824-13:04:35.673 : Received logon response
+20170824-13:04:39.462 : Initiated logout request
+20170824-13:04:39.516 : Received logout response
+20170824-13:04:39.516 : Disconnecting
+20170824-13:04:41.994 : Created session
+20170824-13:04:42.003 : Connecting to 127.0.0.1 on port 9899
+20170824-13:04:42.005 : Initiated logon request
+20170824-13:04:42.005 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20170824-13:04:42.020 : Received logon response
+20170824-13:04:46.403 : Initiated logout request
+20170824-13:04:46.413 : Received logout response
+20170824-13:04:46.413 : Disconnecting
+20170824-13:04:58.575 : Created session
+20170824-13:04:58.594 : Connecting to 127.0.0.1 on port 9899
+20170824-13:04:58.600 : Initiated logon request
+20170824-13:04:58.600 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20170824-13:04:58.638 : Received logon response
+20170824-13:04:59.625 : Initiated logout request
+20170824-13:04:59.680 : Received logout response
+20170824-13:04:59.680 : Disconnecting
+20170824-13:05:01.135 : Created session
+20170824-13:06:13.135 : Created session
+20170824-13:06:13.142 : Connecting to 127.0.0.1 on port 9899
+20170824-13:06:13.148 : Initiated logon request
+20170824-13:06:13.148 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20170824-13:06:13.228 : Received logon response
+20170824-13:06:16.603 : Initiated logout request
+20170824-13:06:16.626 : Received logout response
+20170824-13:06:16.627 : Disconnecting
+20170824-13:06:18.094 : Created session
+20170824-13:06:18.100 : Connecting to 127.0.0.1 on port 9899
+20170824-13:06:18.107 : Initiated logon request
+20170824-13:06:18.107 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20170824-13:06:18.126 : Received logon response
+20170824-13:06:34.814 : Initiated logout request
+20170824-13:06:34.824 : Received logout response
+20170824-13:06:34.824 : Disconnecting
+20170824-13:06:38.518 : Created session
+20170824-13:06:38.527 : Connecting to 127.0.0.1 on port 9899
+20170824-13:06:38.532 : Initiated logon request
+20170824-13:06:38.532 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20170824-13:06:38.551 : Received logon response
+20170824-13:06:43.166 : Initiated logout request
+20170824-13:06:43.177 : Received logout response
+20170824-13:06:43.177 : Disconnecting
+20170824-13:08:05.270 : Created session
+20170824-13:08:05.283 : Connecting to 127.0.0.1 on port 9899
+20170824-13:08:05.288 : Initiated logon request
+20170824-13:08:05.288 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20170824-13:08:05.360 : Received logon response
+20170824-13:08:07.530 : Initiated logout request
+20170824-13:08:07.541 : Received logout response
+20170824-13:08:07.541 : Disconnecting
+20170824-13:08:14.224 : Created session
+20170824-13:08:14.232 : Connecting to 127.0.0.1 on port 9899
+20170824-13:08:14.244 : Initiated logon request
+20170824-13:08:14.244 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20170824-13:08:14.276 : Received logon response
+20170824-13:08:16.928 : Initiated logout request
+20170824-13:08:16.939 : Received logout response
+20170824-13:08:16.939 : Disconnecting
+20170824-13:10:21.245 : Created session
+20170824-13:10:21.252 : Connecting to 127.0.0.1 on port 9899
+20170824-13:10:21.256 : Initiated logon request
+20170824-13:10:21.256 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20170824-13:10:21.319 : Received logon response
+20170824-13:12:34.355 : Created session
+20170824-13:12:34.362 : Connecting to 127.0.0.1 on port 9899
+20170824-13:12:34.367 : Initiated logon request
+20170824-13:12:34.367 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20170824-13:12:34.420 : Received logon response
+20170824-13:12:40.255 : Initiated logout request
+20170824-13:12:40.272 : Received logout response
+20170824-13:12:40.272 : Disconnecting
+20170824-13:14:40.476 : Created session
+20170824-13:14:40.483 : Connecting to 127.0.0.1 on port 9899
+20170824-13:14:40.488 : Initiated logon request
+20170824-13:14:40.488 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20170824-13:14:40.508 : Received logon response
+20170824-13:14:51.555 : Initiated logout request
+20170824-13:14:51.590 : Received logout response
+20170824-13:14:51.590 : Disconnecting
+20170824-13:14:55.822 : Created session
+20170824-13:14:55.828 : Connecting to 127.0.0.1 on port 9899
+20170824-13:14:55.833 : Initiated logon request
+20170824-13:14:55.833 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20170824-13:14:55.858 : Received logon response
+20170824-13:15:01.642 : Initiated logout request
+20170824-13:15:01.653 : Received logout response
+20170824-13:15:01.653 : Disconnecting
+20170824-13:16:02.526 : Created session
+20170824-13:16:02.533 : Connecting to 127.0.0.1 on port 9899
+20170824-13:16:02.540 : Initiated logon request
+20170824-13:16:02.540 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20170824-13:16:02.560 : Received logon response
+20170824-13:16:04.789 : Initiated logout request
+20170824-13:16:20.409 : Created session
+20170824-13:16:20.417 : Connecting to 127.0.0.1 on port 9899
+20170824-13:16:20.424 : Initiated logon request
+20170824-13:16:20.424 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20170824-13:16:20.523 : Received logon response
+20170824-13:16:22.846 : Initiated logout request
+20170824-13:16:22.857 : Received logout response
+20170824-13:16:22.858 : Disconnecting
+20170824-13:16:23.553 : Created session
+20170824-13:20:23.189 : Created session
+20170824-13:20:23.198 : Connecting to 127.0.0.1 on port 9899
+20170824-13:20:23.201 : Initiated logon request
+20170824-13:20:23.201 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20170824-13:20:23.371 : Received logon response
+20170824-13:20:25.519 : Initiated logout request
+20170824-13:20:25.532 : Received logout response
+20170824-13:20:25.533 : Disconnecting
+20170824-13:21:05.355 : Created session
+20170824-13:21:05.363 : Connecting to 127.0.0.1 on port 9899
+20170824-13:21:05.367 : Initiated logon request
+20170824-13:21:05.367 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20170824-13:21:05.425 : Received logon response
+20170824-13:25:59.284 : Created session
+20170824-13:25:59.291 : Connecting to 127.0.0.1 on port 9899
+20170824-13:25:59.296 : Initiated logon request
+20170824-13:25:59.296 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20170824-13:25:59.401 : Received logon response
+20170824-13:26:39.019 : Initiated logout request
+20170824-13:26:39.030 : Received logout response
+20170824-13:26:39.031 : Disconnecting
+20170824-13:51:50.618 : Created session
+20170824-13:51:50.625 : Connecting to 127.0.0.1 on port 9899
+20170824-13:51:50.629 : Initiated logon request
+20170824-13:51:50.629 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20170824-13:51:50.646 : Received logon response
+20170824-13:51:56.218 : Initiated logout request
+20170824-13:51:56.262 : Received logout response
+20170824-13:51:56.262 : Disconnecting
+20170824-13:52:23.772 : Created session
+20170824-13:52:23.779 : Connecting to 127.0.0.1 on port 9899
+20170824-13:52:23.781 : Initiated logon request
+20170824-13:52:23.781 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20170824-13:52:23.796 : Received logon response
+20170824-13:52:47.179 : Initiated logout request
+20170824-13:52:47.189 : Received logout response
+20170824-13:52:47.190 : Disconnecting
+20170824-14:08:14.074 : Created session
+20170824-14:08:14.081 : Connecting to 127.0.0.1 on port 9899
+20170824-14:08:14.088 : Initiated logon request
+20170824-14:08:14.088 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20170824-14:08:14.105 : Received logon response
+20170824-14:23:28.000 : Created session
+20170824-14:23:28.023 : Connecting to 127.0.0.1 on port 9899
+20170824-14:23:28.032 : Initiated logon request
+20170824-14:23:28.032 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20170824-14:23:28.111 : Received logon response
+20170824-14:23:31.332 : Initiated logout request
+20170824-14:23:31.399 : Received logout response
+20170824-14:23:31.399 : Disconnecting
+20170824-16:02:08.484 : Created session
+20170824-16:02:08.518 : Connecting to 127.0.0.1 on port 9899
+20170824-16:02:08.528 : Initiated logon request
+20170824-16:02:08.529 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20170824-16:02:08.529 : Received logon response
+20170824-16:02:39.881 : Socket Error: Connection reset by peer.
+20170824-16:02:39.881 : Disconnecting
+20170824-16:03:08.377 : Connecting to 127.0.0.1 on port 9899
+20170824-16:03:08.380 : Initiated logon request
+20170824-16:03:08.380 : Socket Error: Connection reset by peer.
+20170824-16:03:08.380 : Disconnecting
+20170825-08:26:46.413 : Created session
+20170825-08:26:46.416 : Connecting to 127.0.0.1 on port 9899
+20170825-08:26:46.422 : Initiated logon request
+20170825-08:26:46.422 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20170825-08:26:46.422 : Received logon response
+20170825-08:26:49.389 : Initiated logout request
+20170825-08:26:49.391 : Received logout response
+20170825-08:26:49.391 : Disconnecting
+20170825-08:27:03.376 : Created session
+20170825-08:27:03.379 : Connecting to 127.0.0.1 on port 9899
+20170825-08:27:03.382 : Initiated logon request
+20170825-08:27:03.382 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20170825-08:27:03.382 : Received logon response
+20170825-08:27:17.245 : Initiated logout request
+20170825-08:27:17.246 : Received logout response
+20170825-08:27:17.246 : Disconnecting
+20170825-08:30:10.384 : Created session
+20170825-08:30:10.387 : Connecting to 127.0.0.1 on port 9899
+20170825-08:30:10.389 : Initiated logon request
+20170825-08:30:10.389 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20170825-08:30:10.389 : Received logon response
+20170825-08:38:41.895 : Created session
+20170825-08:38:41.899 : Connecting to 127.0.0.1 on port 9899
+20170825-08:38:41.901 : Initiated logon request
+20170825-08:38:41.901 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20170825-08:38:41.901 : Received logon response
+20170825-08:38:50.430 : Initiated logout request
+20170825-08:38:50.434 : Received logout response
+20170825-08:38:50.435 : Disconnecting
+20170825-08:47:44.054 : Created session
+20170825-08:47:44.058 : Connecting to 127.0.0.1 on port 9899
+20170825-08:47:44.060 : Initiated logon request
+20170825-08:47:44.060 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20170825-08:47:44.060 : Received logon response
+20170825-08:47:49.899 : Initiated logout request
+20170825-08:47:49.900 : Received logout response
+20170825-08:47:49.900 : Disconnecting
+20170825-08:54:13.019 : Created session
+20170825-08:54:13.025 : Connecting to 127.0.0.1 on port 9899
+20170825-08:54:13.027 : Initiated logon request
+20170825-08:54:13.027 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20170825-08:54:13.049 : Received logon response
+20170825-08:54:22.534 : Initiated logout request
+20170825-08:54:22.561 : Received logout response
+20170825-08:54:22.561 : Disconnecting
+20170825-08:54:37.893 : Created session
+20170825-08:54:37.904 : Connecting to 127.0.0.1 on port 9899
+20170825-08:54:37.910 : Initiated logon request
+20170825-08:54:37.910 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20170825-08:54:37.929 : Received logon response
+20170825-08:55:57.606 : Created session
+20170825-08:55:57.610 : Connecting to 127.0.0.1 on port 9899
+20170825-08:55:57.612 : Initiated logon request
+20170825-08:55:57.612 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20170825-08:55:57.620 : Received logon response
+20170825-08:56:11.616 : Initiated logout request
+20170825-08:56:11.636 : Received logout response
+20170825-08:56:11.636 : Disconnecting
+20170825-09:00:39.973 : Created session
+20170825-09:00:39.976 : Connecting to 127.0.0.1 on port 9899
+20170825-09:00:39.978 : Initiated logon request
+20170825-09:00:39.978 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20170825-09:00:39.987 : Received logon response
+20170829-10:58:12.731 : Created session
+20170829-10:58:12.737 : Connecting to 127.0.0.1 on port 9899
+20170829-10:58:12.749 : Initiated logon request
+20170829-10:58:12.760 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20170829-10:58:12.889 : Received logon response
+20170829-10:58:19.711 : Initiated logout request
+20170829-10:58:19.761 : Received logout response
+20170829-10:58:19.762 : Disconnecting
+20170829-10:58:27.018 : Created session
+20170829-10:58:27.049 : Connecting to 127.0.0.1 on port 9899
+20170829-10:58:27.059 : Initiated logon request
+20170829-10:58:27.059 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20170829-10:58:27.099 : Received logon response
+20170829-11:02:12.161 : Initiated logout request
+20170829-11:02:12.175 : Received logout response
+20170829-11:02:12.176 : Disconnecting
+20170829-11:58:58.813 : Created session
+20170829-11:58:58.838 : Connecting to 127.0.0.1 on port 9899
+20170829-11:58:58.854 : Initiated logon request
+20170829-11:58:58.854 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20170829-11:58:58.908 : Received logon response
+20170829-11:59:35.242 : Initiated logout request
+20170829-11:59:35.252 : Received logout response
+20170829-11:59:35.252 : Disconnecting
+20170829-12:00:04.201 : Created session
+20170829-12:00:04.205 : Connecting to 127.0.0.1 on port 9899
+20170829-12:00:04.206 : Initiated logon request
+20170829-12:00:04.207 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20170829-12:00:04.213 : Received logon response
+20170829-12:00:13.880 : Initiated logout request
+20170829-12:00:13.933 : Received logout response
+20170829-12:00:13.933 : Disconnecting
+20170829-12:00:18.008 : Created session
+20170829-12:00:18.011 : Connecting to 127.0.0.1 on port 9899
+20170829-12:00:18.015 : Initiated logon request
+20170829-12:00:18.015 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20170829-12:00:18.025 : Received logon response
+20170829-12:00:25.788 : Initiated logout request
+20170829-12:00:25.803 : Received logout response
+20170829-12:00:25.803 : Disconnecting
+20170829-12:00:33.103 : Created session
+20170829-12:00:33.109 : Connecting to 127.0.0.1 on port 9899
+20170829-12:00:33.111 : Initiated logon request
+20170829-12:00:33.111 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20170829-12:00:33.120 : Received logon response
+20170829-12:01:23.167 : Initiated logout request
+20170829-12:01:23.177 : Received logout response
+20170829-12:01:23.177 : Disconnecting
+20170829-12:04:29.483 : Created session
+20170829-12:04:29.487 : Connecting to 127.0.0.1 on port 9899
+20170829-12:04:29.488 : Initiated logon request
+20170829-12:04:29.489 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20170829-12:04:29.497 : Received logon response
+20170829-12:15:19.935 : Initiated logout request
+20170829-12:15:19.975 : Received logout response
+20170829-12:15:19.975 : Disconnecting
+20170829-12:15:23.813 : Created session
+20170829-12:15:23.818 : Connecting to 127.0.0.1 on port 9899
+20170829-12:15:23.820 : Initiated logon request
+20170829-12:15:23.820 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20170829-12:15:23.828 : Received logon response
+20170829-12:18:00.887 : Initiated logout request
+20170829-12:18:00.897 : Received logout response
+20170829-12:18:00.898 : Disconnecting
+20170829-12:23:12.993 : Created session
+20170829-12:23:12.996 : Connecting to 127.0.0.1 on port 9899
+20170829-12:23:13.001 : Initiated logon request
+20170829-12:23:13.001 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20170829-12:23:13.008 : Received logon response
+20170829-12:24:52.183 : Initiated logout request
+20170829-12:24:52.259 : Received logout response
+20170829-12:24:52.259 : Disconnecting
+20170829-13:11:07.487 : Created session
+20170829-13:11:07.492 : Connecting to 127.0.0.1 on port 9899
+20170829-13:11:07.498 : Initiated logon request
+20170829-13:11:07.498 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20170829-13:11:07.519 : Received logon response
+20170829-13:11:23.863 : Initiated logout request
+20170829-13:11:23.877 : Received logout response
+20170829-13:11:23.877 : Disconnecting
+20170829-13:11:29.643 : Created session
+20170829-13:11:29.646 : Connecting to 127.0.0.1 on port 9899
+20170829-13:11:29.649 : Initiated logon request
+20170829-13:11:29.649 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20170829-13:11:29.661 : Received logon response
+20170829-13:13:50.123 : Initiated logout request
+20170829-13:13:50.150 : Received logout response
+20170829-13:13:50.151 : Disconnecting
+20170829-13:15:36.043 : Created session
+20170829-13:15:36.049 : Connecting to 127.0.0.1 on port 9899
+20170829-13:15:36.052 : Initiated logon request
+20170829-13:15:36.052 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20170829-13:15:36.067 : Received logon response
+20170829-13:15:40.012 : Initiated logout request
+20170829-13:15:40.026 : Received logout response
+20170829-13:15:40.026 : Disconnecting
+20170829-13:25:05.448 : Created session
+20170829-13:25:05.458 : Connecting to 127.0.0.1 on port 9899
+20170829-13:25:05.460 : Initiated logon request
+20170829-13:25:05.460 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20170829-13:25:05.491 : Received logon response
+20170829-13:26:25.903 : Initiated logout request
+20170829-13:26:25.913 : Received logout response
+20170829-13:26:25.914 : Disconnecting
+20170829-13:42:00.597 : Created session
+20170829-13:42:00.601 : Connecting to 127.0.0.1 on port 9899
+20170829-13:42:00.602 : Initiated logon request
+20170829-13:42:00.602 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20170829-13:42:00.609 : Received logon response
+20170829-13:44:14.885 : Initiated logout request
+20170829-13:44:14.930 : Received logout response
+20170829-13:44:14.930 : Disconnecting
+20170829-13:58:33.601 : Created session
+20170829-13:58:33.604 : Connecting to 127.0.0.1 on port 9899
+20170829-13:58:33.606 : Initiated logon request
+20170829-13:58:33.606 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20170829-13:58:33.613 : Received logon response
+20170829-14:01:27.175 : Initiated logout request
+20170829-14:01:27.198 : Received logout response
+20170829-14:01:27.198 : Disconnecting
+20170829-14:01:31.327 : Created session
+20170829-14:01:31.334 : Connecting to 127.0.0.1 on port 9899
+20170829-14:01:31.336 : Initiated logon request
+20170829-14:01:31.336 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20170829-14:01:31.357 : Received logon response
+20170829-14:03:49.458 : Initiated logout request
+20170829-14:03:49.466 : Received logout response
+20170829-14:03:49.466 : Disconnecting
+20170829-14:08:17.352 : Created session
+20170829-14:08:17.355 : Connecting to 127.0.0.1 on port 9899
+20170829-14:08:17.357 : Initiated logon request
+20170829-14:08:17.357 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20170829-14:08:17.362 : Received logon response
+20170829-14:09:38.964 : Initiated logout request
+20170829-14:09:38.970 : Received logout response
+20170829-14:09:38.970 : Disconnecting
+20170829-14:26:06.660 : Created session
+20170829-14:26:06.665 : Connecting to 127.0.0.1 on port 9899
+20170829-14:26:06.667 : Initiated logon request
+20170829-14:26:06.667 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20170829-14:26:06.709 : Received logon response
+20170829-14:26:40.669 : Initiated logout request
+20170829-14:26:40.694 : Received logout response
+20170829-14:26:40.694 : Disconnecting
+20170829-14:26:43.547 : Created session
+20170829-14:26:43.560 : Connecting to 127.0.0.1 on port 9899
+20170829-14:26:43.563 : Initiated logon request
+20170829-14:26:43.563 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20170829-14:26:43.593 : Received logon response
+20170829-14:33:25.883 : Initiated logout request
+20170829-14:33:25.894 : Received logout response
+20170829-14:33:25.894 : Disconnecting
+20170829-14:33:27.441 : Created session
+20170829-14:33:27.464 : Connecting to 127.0.0.1 on port 9899
+20170829-14:33:27.476 : Initiated logon request
+20170829-14:33:27.476 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20170829-14:33:27.517 : Received logon response
+20170829-15:01:28.410 : Created session
+20170829-15:02:11.659 : Created session
+20170829-15:02:11.662 : Connecting to 127.0.0.1 on port 9899
+20170829-15:02:11.664 : Initiated logon request
+20170829-15:02:11.664 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20170829-15:02:11.677 : Received logon response
+20170829-15:02:15.609 : Initiated logout request
+20170829-15:02:15.623 : Received logout response
+20170829-15:02:15.623 : Disconnecting
+20170829-15:02:28.510 : Created session
+20170829-15:02:28.515 : Connecting to 127.0.0.1 on port 9899
+20170829-15:02:28.517 : Initiated logon request
+20170829-15:02:28.517 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20170829-15:02:28.526 : Received logon response
+20170829-15:08:37.830 : Created session
+20170829-15:08:37.834 : Connecting to 127.0.0.1 on port 9899
+20170829-15:08:37.836 : Initiated logon request
+20170829-15:08:37.836 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20170829-15:08:37.844 : Received logon response
+20170829-15:09:51.499 : Initiated logout request
+20170829-15:09:51.512 : Received logout response
+20170829-15:09:51.512 : Disconnecting
+20170829-15:09:57.149 : Created session
+20170829-15:09:57.152 : Connecting to 127.0.0.1 on port 9899
+20170829-15:09:57.154 : Initiated logon request
+20170829-15:09:57.154 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20170829-15:09:57.163 : Received logon response
+20170829-15:23:10.705 : Created session
+20170829-15:23:10.710 : Connecting to 127.0.0.1 on port 9899
+20170829-15:23:10.712 : Initiated logon request
+20170829-15:23:10.713 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20170829-15:23:10.728 : Received logon response
+20170829-15:38:30.194 : Created session
+20170829-15:38:30.202 : Connecting to 127.0.0.1 on port 9899
+20170829-15:38:30.205 : Initiated logon request
+20170829-15:38:30.205 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20170829-15:38:30.216 : Received logon response
+20170829-15:43:01.793 : Created session
+20170829-15:43:01.797 : Connecting to 127.0.0.1 on port 9899
+20170829-15:43:01.799 : Initiated logon request
+20170829-15:43:01.799 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20170829-15:43:01.809 : Received logon response
+20170829-15:43:07.578 : Initiated logout request
+20170829-15:43:07.607 : Received logout response
+20170829-15:43:07.607 : Disconnecting
+20170829-15:43:23.474 : Created session
+20170829-15:43:23.478 : Connecting to 127.0.0.1 on port 9899
+20170829-15:43:23.481 : Initiated logon request
+20170829-15:43:23.481 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20170829-15:43:23.489 : Received logon response
+20170829-15:50:36.282 : Created session
+20170829-15:50:36.286 : Connecting to 127.0.0.1 on port 9899
+20170829-15:50:36.288 : Initiated logon request
+20170829-15:50:36.288 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20170829-15:50:36.296 : Received logon response
+20170829-15:50:40.220 : Initiated logout request
+20170829-15:50:40.241 : Received logout response
+20170829-15:50:40.241 : Disconnecting
+20170830-08:37:11.688 : Created session
+20170830-08:37:11.707 : Connecting to 127.0.0.1 on port 9899
+20170830-08:37:11.724 : Initiated logon request
+20170830-08:37:11.724 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20170830-08:37:11.785 : Received logon response
+20170830-08:37:16.651 : Initiated logout request
+20170830-08:37:16.680 : Received logout response
+20170830-08:37:16.680 : Disconnecting
+20170830-08:40:48.808 : Created session
+20170830-08:40:48.812 : Connecting to 127.0.0.1 on port 9899
+20170830-08:40:48.813 : Initiated logon request
+20170830-08:40:48.813 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20170830-08:40:48.825 : Received logon response
+20170830-08:40:51.793 : Initiated logout request
+20170830-08:40:51.836 : Received logout response
+20170830-08:40:51.836 : Disconnecting
+20170830-08:41:43.392 : Created session
+20170830-08:41:43.402 : Connecting to 127.0.0.1 on port 9899
+20170830-08:41:43.415 : Initiated logon request
+20170830-08:41:43.415 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20170830-08:41:43.429 : Received logon response
+20170830-08:43:20.881 : Initiated logout request
+20170830-08:43:20.907 : Received logout response
+20170830-08:43:20.907 : Disconnecting
+20170830-08:46:07.127 : Created session
+20170830-08:46:07.164 : Connecting to 127.0.0.1 on port 9899
+20170830-08:46:07.180 : Initiated logon request
+20170830-08:46:07.180 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20170830-08:46:07.222 : Received logon response
+20170830-08:48:28.628 : Initiated logout request
+20170830-08:48:28.671 : Received logout response
+20170830-08:48:28.671 : Disconnecting
+20170830-09:13:25.518 : Created session
+20170830-09:13:25.523 : Connecting to 127.0.0.1 on port 9899
+20170830-09:13:25.525 : Initiated logon request
+20170830-09:13:25.525 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20170830-09:13:25.539 : Received logon response
+20170830-09:13:29.461 : Initiated logout request
+20170830-09:13:29.484 : Received logout response
+20170830-09:13:29.485 : Disconnecting
+20170830-09:13:32.938 : Created session
+20170830-09:13:32.942 : Connecting to 127.0.0.1 on port 9899
+20170830-09:13:32.946 : Initiated logon request
+20170830-09:13:32.946 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20170830-09:13:32.952 : Received logon response
+20170830-09:14:43.222 : Initiated logout request
+20170830-09:14:43.263 : Received logout response
+20170830-09:14:43.264 : Disconnecting
+20170830-10:56:54.667 : Created session
+20170830-10:56:54.671 : Connecting to 127.0.0.1 on port 9899
+20170830-10:56:54.674 : Initiated logon request
+20170830-10:56:54.674 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20170830-10:56:54.684 : Received logon response
+20170830-12:27:34.299 : Created session
+20170830-12:29:29.613 : Created session
+20170830-12:29:29.616 : Connecting to 127.0.0.1 on port 9899
+20170830-12:29:29.618 : Initiated logon request
+20170830-12:29:29.618 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20170830-12:29:29.629 : Received logon response
+20170830-12:29:49.599 : Initiated logout request
+20170830-12:29:49.614 : Received logout response
+20170830-12:29:49.615 : Disconnecting
+20170830-12:29:54.261 : Created session
+20170830-12:29:54.264 : Connecting to 127.0.0.1 on port 9899
+20170830-12:29:54.267 : Initiated logon request
+20170830-12:29:54.267 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20170830-12:29:54.276 : Received logon response
+20170830-12:31:09.423 : Initiated logout request
+20170830-12:31:09.447 : Received logout response
+20170830-12:31:09.447 : Disconnecting
+20170830-12:31:20.909 : Created session
+20170830-12:31:20.912 : Connecting to 127.0.0.1 on port 9899
+20170830-12:31:20.914 : Initiated logon request
+20170830-12:31:20.914 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20170830-12:31:20.922 : Received logon response
+20170830-12:36:22.161 : Created session
+20170830-12:36:22.164 : Connecting to 127.0.0.1 on port 9899
+20170830-12:36:22.166 : Initiated logon request
+20170830-12:36:22.166 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20170830-12:36:22.177 : Received logon response
+20170830-12:45:47.416 : Created session
+20170830-12:45:47.420 : Connecting to 127.0.0.1 on port 9899
+20170830-12:45:47.422 : Initiated logon request
+20170830-12:45:47.422 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20170830-12:45:47.430 : Received logon response
+20170830-12:45:56.095 : Initiated logout request
+20170830-12:45:56.108 : Received logout response
+20170830-12:45:56.108 : Disconnecting
+20170830-12:46:03.778 : Created session
+20170830-12:46:03.783 : Connecting to 127.0.0.1 on port 9899
+20170830-12:46:03.785 : Initiated logon request
+20170830-12:46:03.785 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20170830-12:46:03.798 : Received logon response
+20170830-12:47:07.901 : Created session
+20170830-12:47:07.938 : Connecting to 127.0.0.1 on port 9899
+20170830-12:47:07.943 : Initiated logon request
+20170830-12:47:07.943 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20170830-12:47:08.002 : Received logon response
+20170830-14:13:51.743 : Created session
+20170830-14:13:51.747 : Connecting to 127.0.0.1 on port 9899
+20170830-14:13:51.749 : Initiated logon request
+20170830-14:13:51.749 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20170830-14:13:51.760 : Received logon response
+20170830-14:18:56.694 : Initiated logout request
+20170830-14:18:56.706 : Received logout response
+20170830-14:18:56.706 : Disconnecting
+20170830-14:19:01.483 : Created session
+20170830-14:19:01.487 : Connecting to 127.0.0.1 on port 9899
+20170830-14:19:01.489 : Initiated logon request
+20170830-14:19:01.489 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20170830-14:19:01.497 : Received logon response
+20170830-14:23:13.318 : Created session
+20170830-14:23:13.322 : Connecting to 127.0.0.1 on port 9899
+20170830-14:23:13.324 : Initiated logon request
+20170830-14:23:13.324 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20170830-14:23:13.333 : Received logon response
+20170830-14:25:21.965 : Initiated logout request
+20170830-14:25:22.006 : Received logout response
+20170830-14:25:22.007 : Disconnecting
+20170830-14:25:27.387 : Created session
+20170830-14:25:27.394 : Connecting to 127.0.0.1 on port 9899
+20170830-14:25:27.396 : Initiated logon request
+20170830-14:25:27.396 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20170830-14:25:27.405 : Received logon response
+20170830-14:29:18.562 : Socket Error: Connection reset by peer.
+20170830-14:29:18.562 : Disconnecting
+20170830-14:29:27.343 : Connecting to 127.0.0.1 on port 9899
+20170830-14:29:27.350 : Initiated logon request
+20170830-14:29:27.351 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20170830-14:29:27.367 : Received logon response
+20170830-14:32:16.148 : Created session
+20170830-14:32:16.152 : Connecting to 127.0.0.1 on port 9899
+20170830-14:32:16.154 : Initiated logon request
+20170830-14:32:16.154 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20170830-14:32:16.166 : Received logon response
+20170830-15:24:28.888 : Created session
+20170830-15:24:28.947 : Connecting to 127.0.0.1 on port 9899
+20170830-15:24:28.952 : Initiated logon request
+20170830-15:24:28.952 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20170830-15:24:29.021 : Received logon response
+20170830-15:25:03.347 : Initiated logout request
+20170830-15:25:03.357 : Received logout response
+20170830-15:25:03.357 : Disconnecting
+20170830-15:29:50.632 : Created session
+20170830-15:29:50.674 : Connecting to 127.0.0.1 on port 9899
+20170830-15:29:50.711 : Initiated logon request
+20170830-15:29:50.711 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20170830-15:29:50.767 : Received logon response
+20170830-15:30:07.326 : Created session
+20170830-15:30:07.329 : Connecting to 127.0.0.1 on port 9899
+20170830-15:30:07.331 : Initiated logon request
+20170830-15:30:07.331 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20170830-15:30:07.339 : Received logon response
+20170830-15:37:24.718 : Created session
+20170830-15:37:24.724 : Connecting to 127.0.0.1 on port 9899
+20170830-15:37:24.726 : Initiated logon request
+20170830-15:37:24.726 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20170830-15:37:24.735 : Received logon response
+20170830-15:41:41.391 : Created session
+20170830-15:41:41.422 : Connecting to 127.0.0.1 on port 9899
+20170830-15:41:41.428 : Initiated logon request
+20170830-15:41:41.428 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20170830-15:41:41.486 : Received logon response
+20170830-15:42:25.680 : Initiated logout request
+20170830-15:42:25.709 : Received logout response
+20170830-15:42:25.710 : Disconnecting
+20170830-15:42:30.675 : Created session
+20170830-15:42:30.678 : Connecting to 127.0.0.1 on port 9899
+20170830-15:42:30.680 : Initiated logon request
+20170830-15:42:30.680 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20170830-15:42:30.688 : Received logon response
+20170830-15:44:56.091 : Created session
+20170830-15:44:56.094 : Connecting to 127.0.0.1 on port 9899
+20170830-15:44:56.097 : Initiated logon request
+20170830-15:44:56.097 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20170830-15:44:56.105 : Received logon response
+20170830-15:45:43.765 : Initiated logout request
+20170830-15:45:43.791 : Received logout response
+20170830-15:45:43.791 : Disconnecting
+20170830-15:45:48.112 : Created session
+20170830-15:45:48.115 : Connecting to 127.0.0.1 on port 9899
+20170830-15:45:48.117 : Initiated logon request
+20170830-15:45:48.117 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20170830-15:45:48.126 : Received logon response
+20170830-15:46:36.611 : Initiated logout request
+20170830-15:46:36.651 : Received logout response
+20170830-15:46:36.651 : Disconnecting
+20170830-18:27:05.741 : Created session
+20170830-18:27:05.749 : Connecting to 127.0.0.1 on port 9899
+20170830-18:27:05.757 : Initiated logon request
+20170830-18:27:05.757 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20170830-18:27:05.799 : Received logon response
+20170830-18:28:50.030 : Initiated logout request
+20170830-18:28:50.100 : Received logout response
+20170830-18:28:50.100 : Disconnecting
+20170901-08:24:30.180 : Created session
+20170901-08:24:30.186 : Connecting to 127.0.0.1 on port 9899
+20170901-08:24:30.195 : Initiated logon request
+20170901-08:24:30.195 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20170901-08:24:30.211 : Received logon response
+20170901-08:58:04.436 : Created session
+20170901-08:58:04.443 : Connecting to 127.0.0.1 on port 9899
+20170901-08:58:04.448 : Initiated logon request
+20170901-08:58:04.448 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20170901-08:58:04.460 : Received logon response
+20170901-08:58:20.274 : Initiated logout request
+20170901-08:58:20.317 : Received logout response
+20170901-08:58:20.317 : Disconnecting
+20170901-09:05:01.615 : Created session
+20170901-09:05:01.632 : Connecting to 127.0.0.1 on port 9899
+20170901-09:05:01.638 : Initiated logon request
+20170901-09:05:01.638 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20170901-09:05:01.651 : Received logon response
+20170901-09:10:12.270 : Created session
+20170901-09:10:12.274 : Connecting to 127.0.0.1 on port 9899
+20170901-09:10:12.277 : Initiated logon request
+20170901-09:10:12.277 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20170901-09:10:12.291 : Received logon response
+20170901-09:10:37.453 : Initiated logout request
+20170901-09:10:37.538 : Received logout response
+20170901-09:10:37.538 : Disconnecting
+20170901-09:11:42.576 : Created session
+20170901-09:11:42.590 : Connecting to 127.0.0.1 on port 9899
+20170901-09:11:42.594 : Initiated logon request
+20170901-09:11:42.594 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20170901-09:11:42.620 : Received logon response
+20170901-09:14:15.698 : Created session
+20170901-09:14:15.704 : Connecting to 127.0.0.1 on port 9899
+20170901-09:14:15.706 : Initiated logon request
+20170901-09:14:15.706 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20170901-09:14:15.714 : Received logon response
+20170901-10:31:10.628 : Timed out waiting for heartbeat
+20170901-10:31:10.628 : Disconnecting
+20170901-10:31:10.635 : Initiated logon request
+20170901-10:32:10.337 : Connecting to 127.0.0.1 on port 9899
+20170901-10:32:10.342 : Initiated logon request
+20170901-10:32:10.342 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20170901-10:32:10.403 : Received logon response
+20170901-12:19:08.215 : Created session
+20170901-12:19:08.220 : Connecting to 127.0.0.1 on port 9899
+20170901-12:19:08.227 : Initiated logon request
+20170901-12:19:08.227 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20170901-12:19:08.243 : Received logon response
+20170901-12:28:02.716 : Initiated logout request
+20170901-12:28:02.725 : Received logout response
+20170901-12:28:02.725 : Disconnecting
+20170901-12:28:06.387 : Created session
+20170901-12:28:06.393 : Connecting to 127.0.0.1 on port 9899
+20170901-12:28:06.394 : Initiated logon request
+20170901-12:28:06.394 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20170901-12:28:06.407 : Received logon response
+20170901-12:29:54.645 : Created session
+20170901-12:29:54.649 : Connecting to 127.0.0.1 on port 9899
+20170901-12:29:54.650 : Initiated logon request
+20170901-12:29:54.651 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20170901-12:29:54.659 : Received logon response
+20170901-13:48:08.160 : Socket Error: Connection reset by peer.
+20170901-13:48:08.161 : Disconnecting
+20170901-13:48:31.493 : Created session
+20170901-13:48:31.499 : Connecting to 127.0.0.1 on port 9899
+20170901-13:48:31.502 : Initiated logon request
+20170901-13:48:31.502 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20170901-13:48:31.512 : Received logon response
+20170901-13:51:00.165 : Socket Error: Connection reset by peer.
+20170901-13:51:00.165 : Disconnecting
+20170901-13:51:31.085 : Connecting to 127.0.0.1 on port 9899
+20170901-13:51:31.086 : Initiated logon request
+20170901-13:51:31.086 : Socket Error: Connection reset by peer.
+20170901-13:51:31.086 : Disconnecting
+20170901-13:57:15.458 : Created session
+20170901-13:57:15.461 : Connecting to 127.0.0.1 on port 9899
+20170901-13:57:15.470 : Initiated logon request
+20170901-13:57:15.470 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20170901-13:57:15.499 : Received logon response
+20170901-14:02:09.001 : Socket Error: Connection reset by peer.
+20170901-14:02:09.001 : Disconnecting
+20170901-14:02:15.153 : Connecting to 127.0.0.1 on port 9899
+20170901-14:02:15.154 : Initiated logon request
+20170901-14:02:15.154 : Socket Error: Connection reset by peer.
+20170901-14:02:15.154 : Disconnecting
+20170901-14:03:15.569 : Connecting to 127.0.0.1 on port 9899
+20170901-14:03:15.570 : Initiated logon request
+20170901-14:03:15.570 : Socket Error: Connection reset by peer.
+20170901-14:03:15.570 : Disconnecting
+20170901-14:04:15.130 : Connecting to 127.0.0.1 on port 9899
+20170901-14:04:15.131 : Initiated logon request
+20170901-14:04:15.131 : Socket Error: Connection reset by peer.
+20170901-14:04:15.131 : Disconnecting
+20170901-14:05:15.059 : Connecting to 127.0.0.1 on port 9899
+20170901-14:05:15.061 : Initiated logon request
+20170901-14:05:15.061 : Socket Error: Connection reset by peer.
+20170901-14:05:15.061 : Disconnecting
+20170901-14:06:15.900 : Connecting to 127.0.0.1 on port 9899
+20170901-14:06:15.902 : Initiated logon request
+20170901-14:06:15.902 : Socket Error: Connection reset by peer.
+20170901-14:06:15.902 : Disconnecting
+20170901-14:07:15.149 : Connecting to 127.0.0.1 on port 9899
+20170901-14:07:15.150 : Initiated logon request
+20170901-14:07:15.150 : Socket Error: Connection reset by peer.
+20170901-14:07:15.150 : Disconnecting
+20170901-14:08:15.269 : Connecting to 127.0.0.1 on port 9899
+20170901-14:08:15.271 : Initiated logon request
+20170901-14:08:15.271 : Socket Error: Connection reset by peer.
+20170901-14:08:15.271 : Disconnecting
+20170901-14:09:15.066 : Connecting to 127.0.0.1 on port 9899
+20170901-14:09:15.067 : Initiated logon request
+20170901-14:09:15.067 : Socket Error: Connection reset by peer.
+20170901-14:09:15.067 : Disconnecting
+20170901-14:10:15.531 : Connecting to 127.0.0.1 on port 9899
+20170901-14:10:15.532 : Initiated logon request
+20170901-14:10:15.532 : Socket Error: Connection reset by peer.
+20170901-14:10:15.532 : Disconnecting
+20170901-14:11:15.015 : Connecting to 127.0.0.1 on port 9899
+20170901-14:11:15.016 : Initiated logon request
+20170901-14:11:15.016 : Socket Error: Connection reset by peer.
+20170901-14:11:15.016 : Disconnecting
+20170901-14:12:15.383 : Connecting to 127.0.0.1 on port 9899
+20170901-14:12:15.384 : Initiated logon request
+20170901-14:12:15.384 : Socket Error: Connection reset by peer.
+20170901-14:12:15.384 : Disconnecting
+20170901-14:13:15.696 : Connecting to 127.0.0.1 on port 9899
+20170901-14:13:15.697 : Initiated logon request
+20170901-14:13:15.697 : Socket Error: Connection reset by peer.
+20170901-14:13:15.697 : Disconnecting
+20170901-14:14:15.140 : Connecting to 127.0.0.1 on port 9899
+20170901-14:14:15.143 : Initiated logon request
+20170901-14:14:15.143 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20170901-14:14:15.162 : Received logon response
+20170901-15:18:10.136 : Created session
+20170901-15:18:10.150 : Connecting to 127.0.0.1 on port 9899
+20170901-15:18:10.153 : Initiated logon request
+20170901-15:18:10.153 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20170901-15:18:10.177 : Received logon response
+20170901-15:26:05.360 : Created session
+20170901-15:26:05.371 : Connecting to 127.0.0.1 on port 9899
+20170901-15:26:05.381 : Initiated logon request
+20170901-15:26:05.381 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20170901-15:26:05.453 : Received logon response
+20170901-15:28:34.579 : Created session
+20170901-15:28:34.583 : Connecting to 127.0.0.1 on port 9899
+20170901-15:28:34.586 : Initiated logon request
+20170901-15:28:34.586 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20170901-15:28:34.600 : Received logon response
+20170901-15:30:29.273 : Socket Error: Connection reset by peer.
+20170901-15:30:29.273 : Disconnecting
+20170901-15:30:34.140 : Connecting to 127.0.0.1 on port 9899
+20170901-15:30:34.144 : Initiated logon request
+20170901-15:30:34.144 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20170901-15:30:34.154 : Received logon response
+20170901-15:31:18.908 : Created session
+20170901-15:31:18.915 : Connecting to 127.0.0.1 on port 9899
+20170901-15:31:18.920 : Initiated logon request
+20170901-15:31:18.920 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20170901-15:31:19.035 : Received logon response
+20170901-15:56:20.749 : Initiated logout request
+20170901-15:56:20.757 : Received logout response
+20170901-15:56:20.757 : Disconnecting
+20170901-15:58:45.758 : Created session
+20170901-15:58:45.762 : Connecting to 127.0.0.1 on port 9899
+20170901-15:58:45.764 : Initiated logon request
+20170901-15:58:45.764 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20170901-15:58:45.771 : Received logon response
