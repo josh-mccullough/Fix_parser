@@ -1,12 +1,13 @@
 #! /usr/bin/env python
 from pprint import pprint
 import argparse
-import xml.etree.ElementTree
+import xml.etree.cElementTree
 
 
 parser = argparse.ArgumentParser(description="Fix log message parser")
 parser.add_argument("message_log")
 args = parser.parse_args()
+
 
 class FixDict(dict):
 
@@ -17,6 +18,8 @@ class FixDict(dict):
         dict.__init__(self)
         for k, v in message_dict.iteritems():
             convert_function_name = "convert_{0}".format(k)
+            global key
+            key = k
             attr = getattr(self, convert_function_name, None)
             if attr is not None:
                 self[k] = attr(v)
@@ -24,28 +27,81 @@ class FixDict(dict):
                 self[k] = v
 
     def convert_MsgType(self, value):
-        parser.parse_xml(value)
+        result = parser.parse_xml(value, key)
+        return result
 
-    def convert_OrdType(self, value):
-        parser.parse_xml(value)
+    def convert_AdvSide(self, value):
+        result = parser.parse_xml(value, key)
+        return result
 
-    def convert_AccountType(self, value):
-        parser.parse_xml(value)
+    def convert_AdvTransType(self, value):
+        result = parser.parse_xml(value, key)
+        return result
 
-    def convert_ExecType(self, value):
-        parser.parse_xml(value)
+    def convert_CommType(self, value):
+        result = parser.parse_xml(value, key)
+        return result
+
+    def convert_ExecInst(self, value):
+        result = parser.parse_xml(value, key)
+        return result
+
+    def convert_HandlInst(self, value):
+        result = parser.parse_xml(value, key)
+        return result
+
+    def SecurityIDSource(self, value):
+        result = parser.parse_xml(value, key)
+        return result
+
+    def IOIQltyInd(self, value):
+        result = parser.parse_xml(value, key)
+        return result
+
+    def IOIQty(self, value):
+        result = parser.parse_xml(value, key)
+        return result
+
+    def IOITransType(self, value):
+        result = parser.parse_xml(value, key)
+        return result
+
+    def LastCapacity(self, value):
+        result = parser.parse_xml(value, key)
+        return result
+
+    def Side(self, value):
+        result = parser.parse_xml(value, key)
+        return result
+
+    def ExecType(self, value):
+        result = parser.parse_xml(value, key)
+        return result
+
+    def ExecID(self, value):
+        result = parser.parse_xml(value, key)
+        return result
+
+    def OrdStatus(self, value):
+        result = parser.parse_xml(value, key)
+        return result
+
+    def OrdType(self, value):
+        result = parser.parse_xml(value, key)
+        return result
 
 
 class FixParser:
 
-    def parse_xml(self, value):
+    def parse_xml(self, value, keys):
         # TODO get rid of hardcoded xml and replace with an argparse
-        your_xml = xml.etree.ElementTree.parse('FIX50SP2.xml').getroot()
+        your_xml = xml.etree.cElementTree.parse('FIX50SP2.xml').getroot()
         for a_field in your_xml.iter():
             if a_field.tag == "field":
-                for enums in a_field:
-                    if enums.attrib['enum'] == value:
-                        return enums.attrib['description']
+                if a_field.attrib['name'] == keys:
+                    for _Values in a_field:
+                        if _Values.attrib['enum'] == value:
+                            return _Values.attrib['description']
 
     def create_dict_from_fix_tags(self):
         """Reads in from list of FIX tags, then stores the tags and explanations as key and value in dict"""
@@ -77,7 +133,6 @@ class FixParser:
 
     def take_in_log(self):
         newlist = []
-
         with open(args.message_log, 'rb') as input_messages:
             for line in input_messages:
                 fix_message_dict = FixDict(self.convert(line[24:]))
