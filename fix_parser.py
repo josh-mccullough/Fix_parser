@@ -1,50 +1,31 @@
-#! /usr/bin/env python
-from pprint import pprint
-import argparse
+#!/usr/bin/env python
+
 import xml.etree.cElementTree as etree
-import time
-
-parser = argparse.ArgumentParser(description="Fix log message parser")
-parser.add_argument("message_log")
-args = parser.parse_args()
-
-
-# class FixDict(dict):
-#
-#     def __init__(self, message_dict):
-#         """
-#        Takes a fix message dict
-#        """
-#         dict.__init__(self)
-#         for k, v in message_dict.iteritems():
-#             convert_function_name = "convert_{0}".format(v)
-#             attr = getattr(self, convert_function_name, None)
-#             if attr is not None:
-#                 self[v] = attr(v)
-#             else:
-#                 self[v] = v
-#
-#     def convert_MsgType(self, value):
-#         return value
-
-
+import optparse
+import json
+import sys
 
 
 class FixParser:
 
-    def __init__(self):
-        self.tags = self.store_tags({})
-        self.message_dicts = self.take_in_log()
-        #pprint(self.message_dicts)
+    def __init__(self, dictionary):
+        self._dictionary = dictionary
+        self._tags = self.store_tags()
 
-    def store_tags(self, tags):
+    @property
+    def tags(self):
+        return self._tags
 
-        doc = etree.parse('FIX50SP2.xml')
+    @property
+    def dictionary(self):
+        return self._dictionary
 
+    def store_tags(self):
+        doc = etree.parse(self.dictionary)
         root = doc.getroot()
-
         fi = root.find('fields')
 
+        tags = {}
         for node in fi.getchildren():
             r = node.get("number")
             tags[r] = {}
@@ -54,56 +35,81 @@ class FixParser:
 
         return tags
 
-    def parse_fix_message_into_dict(self, fix_message):
-        ''' This will take in a fix message and convert it into a dictionary so i can comapre it with the dict of
-            tags I have  '''
-        l = []
-        message_dict = {}
-        l = fix_message.split('\x01')  # Removes separator characters
-        del l[-1]  # Removes \n
-        for c in l:
-            message_dict[c.split("=")[0]] = c.split("=")[1]  # Splits each element into key and value
-        return message_dict
+    def convertToDict(self, message):
+        messageDict = dict()
+        for k, v in message:
+            # convert message-type
+            name = k
+            value = v
+            try:
+                definition = self.tags[k]
+                name = definition['name']
+                value = definition.get(value, value)
+            except KeyError:
+                print >>sys.stderr, "unknown-tag:", k
+                name = k
+                value = v
+            finally:
+                messageDict[name] = value
+                
+        return messageDict
 
+    def convert(self, output, message):
+        converted = self.convertToDict(message)
+        encoded = json.dumps(converted, sort_keys=True, indent=4, separators=(',', ': '))
+        output.write(encoded + '\n')
 
-    def take_in_log(self):
-        newlist = []
-        with open(args.message_log, 'rb') as input_messages:
-            for line in input_messages:
-                fix_message_dict = self.parse_fix_message_into_dict(line[24:])
-                newlist.append(fix_message_dict)
-            return newlist
+    @staticmethod
+    def parse_message_log(logFile, delimiter):
+        with open(logFile, 'rb') as logFileFd:
+            
+            messages = []
+            for line in logFileFd:
+                line = line.rstrip('\n')
 
+                # strip the leading timestamp
+                line = line[24:]
 
-    def convert(self):
-        newlist = []
-        for dict in self.message_dicts:
-            print dict
-            for k, v in dict.iteritems():
-                try:
-                    if str(v) in self.tags[str(k)]:
+                # split by delimiter
+                pairs = line.split(delimiter)
+                # remove trailing empty element
+                del pairs[-1]
 
-                        new_key = self.tags[str(k)]["name"]
-                        self.message_dicts[new_key] = self.message_dicts.pop(k)
+                # split by key-value
+                pairs = tuple(map(lambda p: tuple(p.split('=')), pairs))
+                messages.append(pairs)
+                
+            return messages
+            
+            
 
-                        new_value = self.tags[str(k)][str(v)]
-                        self.message_dicts[new_value] = self.message_dicts.pop(v)
-                    else:
-                        new_key = self.tags[str(k)]["name"]
-                        self.message_dicts[new_key] = self.message_dicts.pop(k)
-                        v = str(v)
-                except (KeyError, TypeError) as e:
-                    pass
-        
+def main():
+    parser = optparse.OptionParser()
+    parser.add_option("--output", dest="output",
+                      help="Output destination default stdout", default=sys.stdout)
+    parser.add_option("--dictionary", dest="dictionary",
+                      help="Fix Dictionary", default=None)
+    parser.add_option("--delimiter", dest="delimiter",
+                      help="Fix Delimiter default \x01", default='\x01')
+    options, inputs = parser.parse_args()
+
+    if options.dictionary is None:
+        sys.exit('no dictionary specified')
+
+    if len(inputs) == 0:
+        sys.exit('no-inputs specified')
+
+    output = open(options.output, 'w') if type(options.output) is not file else options.output
+    
+    parser = FixParser(options.dictionary)
+
+    for inputLog in inputs:
+        inputMessages = FixParser.parse_message_log(inputLog, options.delimiter)
+        map(lambda i: parser.convert(output, i), inputMessages)
+    
+    if type(options.output) is not file:
+        output.close()
 
 
 if __name__ == "__main__":
-
-    time1 = time.time()
-    parser = FixParser()
-    parser.convert()
-    time2 = time.time()
-
-    print "Execution time: " + str(time2 - time1)
-
-
+    main()
