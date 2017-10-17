@@ -2,15 +2,20 @@
 
 import xml.etree.cElementTree as etree
 import optparse
+import logging
 import json
 import sys
+import os
+
+
+logger = logging.getLogger('FIX-PARSER')
 
 
 class FixParser:
 
     def __init__(self, dictionary):
         self._dictionary = dictionary
-        self._tags = self.store_tags()
+        self._tags = self._parse_dictionary()
 
     @property
     def tags(self):
@@ -20,7 +25,7 @@ class FixParser:
     def dictionary(self):
         return self._dictionary
 
-    def store_tags(self):
+    def _parse_dictionary(self):
         doc = etree.parse(self.dictionary)
         root = doc.getroot()
         fi = root.find('fields')
@@ -46,9 +51,7 @@ class FixParser:
                 name = definition['name']
                 value = definition.get(value, value)
             except KeyError:
-                print >>sys.stderr, "unknown-tag:", k
-                name = k
-                value = v
+                logger.warning("unknown-tag: {0}={1}".format(k,v))
             finally:
                 messageDict[name] = value
                 
@@ -58,6 +61,16 @@ class FixParser:
         converted = self.convertToDict(message)
         encoded = json.dumps(converted, sort_keys=True, indent=4, separators=(',', ': '))
         output.write(encoded + '\n')
+
+    @staticmethod
+    def parse_raw_message(rawMessage, delimiter):
+        pairs = rawMessage.split(delimiter)
+        
+        # remove trailing pair
+        if len(pairs[-1]) == 0:
+            del pairs[-1]
+        
+        return tuple(map(lambda p: tuple(p.split('=')), pairs))
 
     @staticmethod
     def parse_message_log(logFile, delimiter):
@@ -70,18 +83,11 @@ class FixParser:
                 # strip the leading timestamp
                 line = line[24:]
 
-                # split by delimiter
-                pairs = line.split(delimiter)
-                # remove trailing empty element
-                del pairs[-1]
-
-                # split by key-value
-                pairs = tuple(map(lambda p: tuple(p.split('=')), pairs))
+                pairs = FixParser.parse_raw_message(line, delimiter)
                 messages.append(pairs)
                 
-            return messages
-            
-            
+            return messages    
+
 
 def main():
     parser = optparse.OptionParser()
@@ -100,11 +106,20 @@ def main():
         sys.exit('no-inputs specified')
 
     output = open(options.output, 'w') if type(options.output) is not file else options.output
-    
     parser = FixParser(options.dictionary)
 
-    for inputLog in inputs:
-        inputMessages = FixParser.parse_message_log(inputLog, options.delimiter)
+    for inp in inputs:
+        isPipe = inp == '-'
+        isFile = os.path.exists(inp)
+        
+        inputMessages = None
+        if isPipe:
+            inputMessages = map(lambda l: FixParser.parse_raw_message(l.strip('\n'), options.delimiter), sys.stdin)
+        elif isFile:
+            inputMessages = FixParser.parse_message_log(inp, options.delimiter)
+        else:
+            inputMessages = [FixParser.parse_raw_message(inp, options.delimiter)]
+            
         map(lambda i: parser.convert(output, i), inputMessages)
     
     if type(options.output) is not file:
@@ -112,4 +127,5 @@ def main():
 
 
 if __name__ == "__main__":
+    logging.basicConfig(stream=sys.stderr, level=logging.DEBUG)
     main()
